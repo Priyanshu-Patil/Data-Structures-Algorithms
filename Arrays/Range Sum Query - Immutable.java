@@ -6,7 +6,7 @@ class NumArray {
         preSum = new int[nums.length]; 
 
         for (int i = 0; i < nums.length; ++i) {
-git 
+ 
             if (i == 0) {
                 preSum[0] = nums[0];
             } else {
