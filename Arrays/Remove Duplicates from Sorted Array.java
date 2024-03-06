@@ -1,4 +1,4 @@
-//Using Two Pointet Approach
+//Using Two Pointer Approach
 
 class Solution {
     public int removeDuplicates(int[] nums) {
